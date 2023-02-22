@@ -6,7 +6,7 @@
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Javascript**, **React.js**, **React native**, **HTML**, **CSS** and **UI/UX**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Music **Music producing** and **Composing**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Music producing** and **Composing**.
 
 ## 🛠️ Skills
 
