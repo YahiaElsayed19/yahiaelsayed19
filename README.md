@@ -50,7 +50,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=YahiaElsayed19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YahiaElsayed19&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahiaElsayed19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://visitcount.itsvg.in/api?id=SeragAmged&icon=5&color=6)## 🔗 Links
+![](https://visitcount.itsvg.in/api?id=YahiaElsayed19&icon=5&color=6)## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yahiaelsayed.vercel.app//)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1aBtlS3_tNpow1k7DXmQO7einEvJBRzE9)
