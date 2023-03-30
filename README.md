@@ -55,6 +55,8 @@
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=yahiaelsayed19" alt="visitors">
 </div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YahiaElsayed19&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahiaElsayed19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔗 Links
 
