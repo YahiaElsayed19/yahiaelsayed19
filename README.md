@@ -51,11 +51,14 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=yahiaelsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's profile" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=yahiaelsayed19&show_icons=true&hide_border=true" alt="Yahia Elsayed's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yahiaelsayed19&show_icons=true&hide_border=true&theme=midnight-purple" alt="Yahia Elsayed's GitHub Stats">
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahiaElsayed19&theme=midnight-purple&hide_border=true" alt="Yahia Elsayed's GitHub Stats">
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahiaElsayed19&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Yahia Elsayed's Most used languages">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=yahiaelsayed19" alt="visitors">
 </div>
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yahiaelsayed.vercel.app//)
