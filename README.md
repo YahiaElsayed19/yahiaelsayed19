@@ -47,18 +47,10 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yahiaelsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's profile" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=yahiaelsayed19&show_icons=true&hide_border=true" alt="Yahia Elsayed's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=yahiaelsayed19" alt="visitors">
-</div>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YahiaElsayed19&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahiaElsayed19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🔗 Links
+![](https://github-readme-stats.vercel.app/api?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SeragAmged&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeragAmged&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://visitcount.itsvg.in/api?id=SeragAmged&icon=5&color=6)## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://yahiaelsayed.vercel.app//)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1aBtlS3_tNpow1k7DXmQO7einEvJBRzE9)
