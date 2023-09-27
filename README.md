@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Yahia Elsayed , a **Software Developer** (specializing in **React.js And React native**) . I am also Pursuing my Bachelor in **Computing and Data Science** and will graduate in 2024.
+🎓 I am Yahia Elsayed , a **Software Developer** (specializing in **Next.js, React.js And React native**) . I am also Pursuing my Bachelor in **Computing and Data Science** and will graduate in 2024.
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Javascript**, **React.js**, **React native**, **HTML**, **CSS** and **UI/UX**.
 
