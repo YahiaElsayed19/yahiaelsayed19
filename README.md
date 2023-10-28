@@ -61,9 +61,6 @@
 
 <div style="text-align: center;"> 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yahiaelsayed19&data=followers,repositories,stars,commits&theme=dark)](https://github.com/yahiaelsayed19) 
-</div>
-
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=yahiaelsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's profile" />
     <br />
