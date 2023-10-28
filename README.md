@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Yahia Elsayed , a **Software Developer** (specializing in **Next.js, React.js And React native**) . I am also Pursuing my Bachelor in **Computing and Data Science** and will graduate in 2024.
+🎓 I am Yahia Elsayed , a **Software Developer** (specializing in **React.js, Next.js, React native, Node.js and Express.js**) . I am also Pursuing my Bachelor in **Computing and Data Science** and will graduate in 2024.
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Javascript**, **React.js**, **React native**, **HTML**, **CSS** and **UI/UX**.
 
@@ -25,15 +25,21 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React-Native-61dafb?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongoose](https://img.shields.io/badge/Mongoose-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-52B0E7.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ### Cross Platform Development
 
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React-Native-61dafb?style=for-the-badge&logo=react&logoColor=white)
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Backend as a Service (BaaS)
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -49,11 +55,18 @@
 
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## 📈 Stats
+
+<div style="text-align: center;"> 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yahiaelsayed19&data=followers,repositories,stars,commits&theme=dark)](https://github.com/yahiaelsayed19) 
+</div>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=yahiaelsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's profile" />
+    <br />
     <br />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=yahiaelsayed19&show_icons=true&hide_border=true&theme=midnight-purple" alt="Yahia Elsayed's GitHub Stats">
