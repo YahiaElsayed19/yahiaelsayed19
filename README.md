@@ -89,7 +89,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yahiaelsayed.com)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1aBtlS3_tNpow1k7DXmQO7einEvJBRzE9)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.yahiaelsayed.com/files/Yahia%20El-Sayed%20-%20Resume.docx)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yahiaelsayed19/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YahiaElsayed19)
 [![mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@yahiaelsayed.com)
