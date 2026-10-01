@@ -14,11 +14,13 @@
 
 </div>
 
-[![portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yahiaelsayed.com)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.yahiaelsayed.com/cv)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yahiaelsayed19/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YahiaElsayed19)
-[![mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@yahiaelsayed.com)
+<p align="center">
+  <a href="https://yahiaelsayed.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" alt="portfolio" /></a>
+  <a href="https://www.yahiaelsayed.com/cv"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume" /></a>
+  <a href="https://www.linkedin.com/in/yahiaelsayed19/"><img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" alt="linked-in" /></a>
+  <a href="https://github.com/YahiaElsayed19"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" alt="github" /></a>
+  <a href="mailto:contact@yahiaelsayed.com"><img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&amp;logo=mail&amp;logoColor=white" alt="mail" /></a>
+</p>
 
 <p align="center">
   <a href="#-featured-work">Featured work</a> ·
@@ -124,7 +126,7 @@ A job-search application with AI-powered resume tools and automated application 
 
 ## 🛠️ Stack
 
-### Primary Focus · Next.js & Frontend
+### Frontend
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -138,7 +140,6 @@ A job-search application with AI-powered resume tools and automated application 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
-**Next.js is my main focus:** building responsive product interfaces, translating Figma designs into reusable components, integrating APIs, and improving performance and accessibility.
 
 ### Backend & Data
 
