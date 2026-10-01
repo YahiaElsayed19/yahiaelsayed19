@@ -12,6 +12,8 @@
 
 <img src="./github-profile-assets/intro.gif" width="900" alt="Animated terminal introducing Yahia as a Software Engineer and highlighting frontend frameworks, backend frameworks, and DevOps deployment skills" />
 
+<br /><br />
+
 </div>
 
 <p align="center">
