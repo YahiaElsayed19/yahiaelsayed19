@@ -140,7 +140,6 @@ A job-search application with AI-powered resume tools and automated application 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
-
 ### Backend & Data
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -166,24 +165,18 @@ A job-search application with AI-powered resume tools and automated application 
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-I take applications from local development to production: Dockerized services, Docker Compose setups, automated CI/CD pipelines with GitHub Actions, and deployments on Linux VPS servers and DigitalOcean. My infrastructure work also includes Caddy and PostgreSQL.
-
 ### Mobile
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### Cloud Services & Hosting
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-
-<details>
-<summary><strong>Languages, design tools & workspace</strong></summary>
 
 ### Languages
 
@@ -207,15 +200,10 @@ I take applications from local development to production: Dockerized services, D
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</details>
-
-<details>
-<summary><strong>GitHub stats & achievements</strong></summary>
-
-### GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yahiaelsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's profile" />
+    <img src="https://trophy.ryglcloud.net/?username=YahiaElsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's GitHub trophies" />
     <br />
     <br />
     <br />
@@ -230,8 +218,6 @@ I take applications from local development to production: Dockerized services, D
      <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=yahiaelsayed19" alt="visitors">
 </div>
-
-</details>
 
 ---
 
