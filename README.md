@@ -10,9 +10,7 @@
 
 <p><strong>Next.js · React · TypeScript</strong><br />Node.js · Express · Laravel · Payload CMS<br />Docker · GitHub Actions · Linux VPS · DigitalOcean</p>
 
-<img src="./github-profile-assets/intro.gif" width="900" alt="Animated terminal introducing Yahia as a Software Engineer and highlighting frontend frameworks, backend frameworks, and DevOps deployment skills" />
-
-<br />
+<p><img src="./github-profile-assets/intro.gif" width="900" alt="Animated terminal introducing Yahia as a Software Engineer and highlighting frontend frameworks, backend frameworks, and DevOps deployment skills" /></p>
 
 </div>
 
