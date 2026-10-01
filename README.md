@@ -1,25 +1,132 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<div align="center">
 
-## 🚀 About Me
+<h1>Hi, I'm Yahia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29" height="29" alt="Waving hand" /></h1>
 
-🎓 I am Yahia Elsayed , a **Software Engineer** (specializing in **React.js, Next.js, React native, Node.js and Express.js**) . I graduated with a Bachelor’s in **Computing and Data Science**.
+<p><strong>Software Engineer</strong></p>
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2022, I learned **Javascript**, **React.js**, **React native**, **HTML**, **CSS** and **UI/UX**.
+<p><strong>Frontend · Backend · DevOps</strong></p>
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Music **Music producing** and **Composing**.
+<p>I’m a software engineer with strong expertise across <strong>frontend, backend, and DevOps</strong>. I turn product ideas into polished interfaces, reliable APIs, and production deployments—with quality and attention to detail throughout.</p>
 
-## 🛠️ Skills
+<p><strong>Next.js · React · TypeScript</strong><br />Node.js · Express · Laravel · Payload CMS<br />Docker · GitHub Actions · Linux VPS · DigitalOcean</p>
 
-### Languages
+<img src="./github-profile-assets/intro.gif" width="900" alt="Animated terminal introducing Yahia as a Software Engineer and highlighting frontend frameworks, backend frameworks, and DevOps deployment skills" />
 
-![typescript](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+</div>
 
-### Software Development
+[![portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yahiaelsayed.com)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.yahiaelsayed.com/cv)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yahiaelsayed19/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YahiaElsayed19)
+[![mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@yahiaelsayed.com)
 
+<p align="center">
+  <a href="#-featured-work">Featured work</a> ·
+  <a href="#-experience">Experience</a> ·
+  <a href="#-stack">Stack</a> ·
+  <a href="https://www.yahiaelsayed.com/about">More about me</a>
+</p>
+
+---
+
+## 🚀 At a Glance
+
+- **Current role:** Software Engineer at **Pimula Agency**, Alexandria, Egypt.
+- **Frontend:** Next.js, React, and TypeScript—responsive interfaces, reusable components, performance, and accessibility.
+- **Backend:** Node.js, Express, Laravel, Payload CMS, and PostgreSQL—API development, integrations, and data-backed applications.
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Linux VPS servers, Caddy, and DigitalOcean—automated pipelines and production deployments.
+- **Engineering approach:** Own features from design to release, with attention to maintainability, reliable behavior, and the details users notice.
+- **Background:** Computer Science graduate, class of 2024. Outside code, I enjoy music production and composing.
+
+## ✨ Featured Work
+
+Selected projects across full-stack architecture, frontend development, and product interfaces.
+
+### 🛍️ [Ventra Marketplace](https://www.yahiaelsayed.com/projects/ventra-marketplace)
+
+**Full-stack engineering** · Software Engineer · MVP build, May–Jun 2026
+
+A multivendor commerce platform connecting customers, sellers, and platform operators.
+
+**Stack:** **Next.js**, React, TypeScript, Laravel, Filament, TanStack Query, Zustand, Stripe
+
+- **Three connected experiences:** customer storefront, seller workspace, and an operations admin panel.
+- **Commerce workflows:** vendor-specific orders, stock validation, Stripe webhooks, and Cash on Delivery reconciliation.
+- **Beyond checkout:** shipment tracking, returns, refund holds, and vendor accounting.
+
+[View live demo ↗](https://ventra.yahiaelsayed.com/) · [Architecture & case study →](https://www.yahiaelsayed.com/projects/ventra-marketplace)
+
+---
+
+### 🎨 [Kijamii](https://www.yahiaelsayed.com/projects/kijamii)
+
+**Frontend & motion** · Software Engineer
+
+A marketing agency portfolio combining a polished Next.js frontend with interactive animation.
+
+**Stack:** **Next.js**, TypeScript, Tailwind CSS, Shadcn UI, GSAP
+
+- **Frontend implementation:** responsive pages and interfaces built with Next.js and TypeScript.
+- **Motion and presentation:** GSAP animations that bring the agency’s work and capabilities into view.
+
+[View live website ↗](https://kijamii.com/) · [Project case study →](https://www.yahiaelsayed.com/projects/kijamii)
+
+---
+
+### 💼 [JobSolv](https://www.yahiaelsayed.com/projects/jobsolv)
+
+**Product frontend** · Frontend Developer
+
+A job-search application with AI-powered resume tools and automated application features.
+
+**Stack:** **React**, TypeScript, Tailwind CSS, Shadcn UI
+
+- **Product UI:** React frontend implementation for a job-search platform.
+- **Interface toolkit:** TypeScript, Tailwind CSS, and Shadcn UI for the application’s screens and components.
+
+[View live app ↗](https://app.jobsolv.com/) · [Project case study →](https://www.yahiaelsayed.com/projects/jobsolv)
+
+<p align="center"><a href="https://www.yahiaelsayed.com/projects"><strong>Explore the full project archive →</strong></a></p>
+
+---
+
+## 💼 Experience
+
+### Software Engineer · Pimula Agency
+**Apr 2024 – Present**
+
+- Build and maintain React and Next.js applications, owning features from initial setup to release.
+- Collaborate with designers on reusable components, polished interactions, and responsive interfaces.
+- Optimize rendering, assets, and network requests, and integrate RESTful APIs.
+- Build and maintain backend services, Payload CMS integrations, and PostgreSQL databases.
+- Deploy and maintain applications using Docker, GitHub Actions, CI/CD pipelines, Linux, Caddy, and DigitalOcean.
+
+### Front-End Developer · NextGen Software
+**Jan 2024 – Apr 2024**
+
+- Built responsive React and Next.js interfaces and reusable UI patterns.
+- Improved loading and interaction performance.
+- Integrated REST APIs with clear loading and error states.
+
+### Full Stack Developer Intern · Information Technology Institute (ITI)
+**Jun 2023 – Sep 2023**
+
+- Contributed to React and Node.js applications, RESTful APIs, and responsive layouts.
+- Worked on debugging and performance improvements across frontend and backend features.
+
+### Cognos Analytics Intern · IBM
+**Jul 2022 – Dec 2022**
+
+- Built dashboards and reports with Cognos Analytics.
+- Worked on data models and visualizations with analysts to meet stakeholder needs.
+
+---
+
+## 🛠️ Stack
+
+### Primary Focus · Next.js & Frontend
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -28,11 +135,13 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Next.js is my main focus:** building responsive product interfaces, translating Figma designs into reusable components, integrating APIs, and improving performance and accessibility.
+
+### Backend & Data
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,15 +151,46 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-### Cross Platform Development
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_Hosting-232F3E?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-43A047?style=for-the-badge)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+I take applications from local development to production: Dockerized services, Docker Compose setups, automated CI/CD pipelines with GitHub Actions, and deployments on Linux VPS servers and DigitalOcean. My infrastructure work also includes Caddy and PostgreSQL.
+
+### Mobile
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-### Backend as a Service (BaaS)
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
+### Cloud Services & Hosting
 
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+
+<details>
+<summary><strong>Languages, design tools & workspace</strong></summary>
+
+### Languages
+
+![typescript](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Design Tools
 
@@ -58,16 +198,20 @@
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 🖥️ Workspace Setup
+### Workspace Setup
 
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 📈 Stats
 
-<div style="text-align: center;"> 
+</details>
+
+<details>
+<summary><strong>GitHub stats & achievements</strong></summary>
+
+### GitHub Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=yahiaelsayed19&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Yahia's profile" />
@@ -86,10 +230,12 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=yahiaelsayed19" alt="visitors">
 </div>
 
-## 🔗 Links
+</details>
 
-[![portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yahiaelsayed.com)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.yahiaelsayed.com/files/Yahia%20El-Sayed%20-%20Resume.docx)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yahiaelsayed19/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YahiaElsayed19)
-[![mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:contact@yahiaelsayed.com)
+---
+
+<p align="center">
+  <strong>Have a Next.js product or website in mind?</strong><br />
+  <a href="https://www.yahiaelsayed.com/contact">Let's talk</a> ·
+  <a href="https://www.yahiaelsayed.com">Explore my portfolio</a>
+</p>
