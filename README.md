@@ -4,7 +4,7 @@
 
 <p><strong>Software Engineer</strong></p>
 
-<p><strong>Frontend · Backend · DevOps · Mobile</strong></p>
+<p><strong>Frontend · Backend · Mobile · DevOps</strong></p>
 
 <p>I’m a software engineer with strong expertise across <strong>frontend, backend, Mobile and DevOps</strong>. I turn product ideas into polished interfaces, reliable APIs, and production deployments—with quality and attention to detail throughout.</p>
 
