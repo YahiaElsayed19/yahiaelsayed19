@@ -6,7 +6,7 @@
 
 <p><strong>Frontend · Backend · DevOps · Mobile</strong></p>
 
-<p>I’m a software engineer with strong expertise across <strong>frontend, backend, and DevOps</strong>. I turn product ideas into polished interfaces, reliable APIs, and production deployments—with quality and attention to detail throughout.</p>
+<p>I’m a software engineer with strong expertise across <strong>frontend, backend, Mobile and DevOps</strong>. I turn product ideas into polished interfaces, reliable APIs, and production deployments—with quality and attention to detail throughout.</p>
 
 <p><strong>Next.js · React · TypeScript</strong><br />Node.js · Express · Laravel · Payload CMS<br />Docker · GitHub Actions · Linux VPS · DigitalOcean</p>
 
